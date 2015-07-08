@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/vk810/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
     vendor/lge/vk810/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
     vendor/lge/vk810/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/lge/vk810/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/lge/vk810/proprietary/lib/libadsprpc.so:system/lib/libadsprpc.so \
     vendor/lge/vk810/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/lge/vk810/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
@@ -108,6 +109,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/vk810/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/lge/vk810/proprietary/bin/efsks:system/bin/efsks \
     vendor/lge/vk810/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+    vendor/lge/vk810/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/lge/vk810/proprietary/bin/ks:system/bin/ks \
     vendor/lge/vk810/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/lge/vk810/proprietary/bin/port-bridge:system/bin/port-bridge \
