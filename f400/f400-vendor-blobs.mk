@@ -60,7 +60,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/f400/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/lge/f400/proprietary/lib/libconfigdb.so:system/lib/libconfigdb.so \
     vendor/lge/f400/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
-    vendor/lge/f400/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/f400/proprietary/lib/libuicc.so:system/lib/libuicc.so \
     vendor/lge/f400/proprietary/lib/libvss_common_idl.so:system/lib/libvss_common_idl.so \
     vendor/lge/f400/proprietary/lib/libvss_common_iface.so:system/lib/libvss_common_iface.so \

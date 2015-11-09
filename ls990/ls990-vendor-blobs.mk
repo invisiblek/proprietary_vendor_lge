@@ -59,7 +59,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/ls990/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lge/ls990/proprietary/lib/libconfigdb.so:system/lib/libconfigdb.so \
     vendor/lge/ls990/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
-    vendor/lge/ls990/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/ls990/proprietary/lib/libuicc.so:system/lib/libuicc.so \
     vendor/lge/ls990/proprietary/lib/libvss_common_idl.so:system/lib/libvss_common_idl.so \
     vendor/lge/ls990/proprietary/lib/libvss_common_iface.so:system/lib/libvss_common_iface.so \
