@@ -28,38 +28,14 @@ PRODUCT_COPY_FILES += \
     vendor/lge/f400/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/lge/f400/proprietary/etc/firmware/BCM4335_003.001.009.0098.0415_B2_KR_ORC.hcd:system/etc/firmware/BCM4335_003.001.009.0098.0415_B2_KR_ORC.hcd \
     vendor/lge/f400/proprietary/etc/firmware/BCM4339_003.001.009.0105.0458_LGE_G3L_SPRINT_FM_ORC.hcd:system/etc/firmware/BCM4339_003.001.009.0105.0458_LGE_G3L_SPRINT_FM_ORC.hcd \
-    vendor/lge/f400/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
-    vendor/lge/f400/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
-    vendor/lge/f400/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
-    vendor/lge/f400/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
-    vendor/lge/f400/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
-    vendor/lge/f400/proprietary/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so \
-    vendor/lge/f400/proprietary/vendor/lib/libqdp.so:system/vendor/lib/libqdp.so \
-    vendor/lge/f400/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
-    vendor/lge/f400/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
-    vendor/lge/f400/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
-    vendor/lge/f400/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
-    vendor/lge/f400/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
-    vendor/lge/f400/proprietary/vendor/lib/libqmi_csvt_srvc.so:system/vendor/lib/libqmi_csvt_srvc.so \
-    vendor/lge/f400/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
-    vendor/lge/f400/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
-    vendor/lge/f400/proprietary/bin/netmgrd:system/bin/netmgrd \
-    vendor/lge/f400/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lge/f400/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/lge/f400/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/lge/f400/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
-    vendor/lge/f400/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/lge/f400/proprietary/lib/libuicc.so:system/lib/libuicc.so \
     vendor/lge/f400/proprietary/lib/libvss_common_idl.so:system/lib/libvss_common_idl.so \
     vendor/lge/f400/proprietary/lib/libvss_common_iface.so:system/lib/libvss_common_iface.so \
     vendor/lge/f400/proprietary/lib/libvss_nv_idl.so:system/lib/libvss_nv_idl.so \
     vendor/lge/f400/proprietary/lib/libvss_nv_iface.so:system/lib/libvss_nv_iface.so \
     vendor/lge/f400/proprietary/vendor/lib/libcneapiclient.so:system/vendor/lib/libcneapiclient.so \
-    vendor/lge/f400/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
-    vendor/lge/f400/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
-    vendor/lge/f400/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
-    vendor/lge/f400/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
-    vendor/lge/f400/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/lge/f400/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
     vendor/lge/f400/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
     vendor/lge/f400/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
