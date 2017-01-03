@@ -66,4 +66,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libmdmdetect \
-    libperipheral_client
+    libperipheral_client \
+    libril
