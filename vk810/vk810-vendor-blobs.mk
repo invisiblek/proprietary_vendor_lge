@@ -133,7 +133,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/vk810/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/lge/vk810/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/lge/vk810/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
-    vendor/lge/vk810/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
     vendor/lge/vk810/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/lge/vk810/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/lge/vk810/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
