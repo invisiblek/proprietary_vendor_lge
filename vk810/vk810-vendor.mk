@@ -31,7 +31,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/vk810/proprietary/vendor/bin/rild:system/vendor/bin/rild \
     vendor/lge/vk810/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/lge/vk810/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
-    vendor/lge/vk810/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
+    vendor/lge/vk810/proprietary/vendor/bin/thermald:system/vendor/bin/thermald \
     vendor/lge/vk810/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
     vendor/lge/vk810/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/lge/vk810/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
