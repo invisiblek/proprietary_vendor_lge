@@ -122,7 +122,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/vk810/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/lge/vk810/proprietary/vendor/lib/libgemini.so:system/vendor/lib/libgemini.so \
     vendor/lge/vk810/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
-    vendor/lge/vk810/proprietary/vendor/lib/libgps.utils.so:system/vendor/lib/libgps.utils.so \
     vendor/lge/vk810/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/lge/vk810/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/lge/vk810/proprietary/vendor/lib/libimage-jpeg-enc-omx-comp.so:system/vendor/lib/libimage-jpeg-enc-omx-comp.so \
@@ -132,9 +131,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/vk810/proprietary/vendor/lib/liblgftmitem.so:system/vendor/lib/liblgftmitem.so \
     vendor/lge/vk810/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/lge/vk810/proprietary/vendor/lib/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so \
-    vendor/lge/vk810/proprietary/vendor/lib/libloc_core.so:system/vendor/lib/libloc_core.so \
     vendor/lge/vk810/proprietary/vendor/lib/libloc_ds_api.so:system/vendor/lib/libloc_ds_api.so \
-    vendor/lge/vk810/proprietary/vendor/lib/libloc_eng.so:system/vendor/lib/libloc_eng.so \
     vendor/lge/vk810/proprietary/vendor/lib/libmercury.so:system/vendor/lib/libmercury.so \
     vendor/lge/vk810/proprietary/vendor/lib/libmmcamera_3a_legacy.so:system/vendor/lib/libmmcamera_3a_legacy.so \
     vendor/lge/vk810/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
